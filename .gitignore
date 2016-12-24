@@ -4,7 +4,7 @@
 *.o
 *.a
 *.so
-
+*.orig
 # Folders
 _obj
 _test
